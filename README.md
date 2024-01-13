@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**nachtreiher/nachtreiher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h1>mirai 🏴 nachtreiher</h1>
+  <img src="https://skillicons.dev/icons?i=python,c,clojure,pytorch,zig,bash,powershell,java,html,css&theme=dark"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=emacs,vscode,git,latex,regex,workers,github,raspberrypi,svg&theme=dark"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,bsd,plan9&theme=dark"/>
+  <hr>
+  https://sinnermirai.neocities.org/
+</div>
