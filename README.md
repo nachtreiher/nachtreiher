@@ -6,8 +6,8 @@
 <div align="center">
 <h2>Programming languages</h2>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,assembly,cpp,go,bash,powershell">
-  <h2>Systems, tools</h2>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,windows,bsd">
-  <br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,emacs,chromium,wsl,git">
+  <h2>Systems</h2>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,windows,bsd,plan9">
+  <h2>Tools</h2>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,emacs,chromium,wsl,git,docker,kubernetes,lxc,obsidian">
 </div>
