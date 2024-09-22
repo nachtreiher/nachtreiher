@@ -9,5 +9,5 @@
   <h2>Systems</h2>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,windows,bsd,plan9">
   <h2>Tools</h2>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,emacs,chromium,wsl,git,docker,kubernetes,lxc,obsidian">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,emacs,vscode,chromium,wsl,git,docker,obsidian">
 </div>
