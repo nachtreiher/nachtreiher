@@ -7,9 +7,9 @@
 <hr>
 
 <ul>
-  <li>Student in computer science/system administration @ <b><a href="https://www.univ-lille.fr/">University of Lille</a></b>.</li>
-  <li>Interested in reverse engineering, cryptography, network, cybersecurity, pentesting, CTFs...</li>
-  <li>I am currently working as a web developer for <b><a href="https://www.gendarmerie.interieur.gouv.fr/">Gendarmerie Nationale</a></b> (BDRIJ SOLC).</li>
+  <li>20yo French student in computer science/system administration @ <b><a href="https://www.univ-lille.fr/">University of Lille</a></b> (2nd year).</li>
+  <li>Interested in reverse engineering, cryptography, low-level programming, network, cybersecurity, pentesting, CTFs, etc.</li>
+  <li>I am currently working as a web developer for <b><a href="https://www.gendarmerie.interieur.gouv.fr/">Gendarmerie Nationale</a></b> (BDRIJ SOLC), for the Hauts-de-France region.</li>
   <li>Big fan of <b><a href="https://www.openbsd.org/">OpenBSD</a></b> and <b><a href="https://nixos.org/">NixOS</a></b>.</li>
   <li>My curriculum is available at the <b><a href="https://nachtreiher.vercel.app/">following address</a></b>.</li>
 </ul>
@@ -27,9 +27,9 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=debian,kali,nixos,wsl&theme=dark">
 
   <h2>Tools</h2>
-    <h3>Development environments</h3>
+    <h3><i>Development environments</i></h3>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=clion,pycharm,visualstudio,neovim,emacs&theme=dark">
-    <h3>Other</h3>
+    <h3><i>Other</i></h3>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,obsidian,wireshark,git,tmux,vmwareworkstation,nginx,terraform,ansible&theme=dark&perline=5">
 
 <h2>Socials and where you can find me (clickable icons)</h2>
