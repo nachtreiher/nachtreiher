@@ -9,7 +9,7 @@
 <ul>
   <li>20yo French student in computer science/system administration @ <b><a href="https://www.univ-lille.fr/">University of Lille</a></b> (2nd year).</li>
   <li>Interested in reverse engineering, cryptography, low-level programming, network, cybersecurity, pentesting, CTFs, etc.</li>
-  <li>I am currently working as a web developer for <b><a href="https://www.gendarmerie.interieur.gouv.fr/">Gendarmerie Nationale</a></b> (BDRIJ SOLC), for the Hauts-de-France region.</li>
+  <li>I am currently working as a web developer at <b><a href="https://www.gendarmerie.interieur.gouv.fr/">Gendarmerie Nationale</a></b> (BDRIJ SOLC), for the Hauts-de-France region.</li>
   <li>Big fan of <b><a href="https://www.openbsd.org/">OpenBSD</a></b> and <b><a href="https://nixos.org/">NixOS</a></b>.</li>
   <li>My curriculum is available at the <b><a href="https://nachtreiher.vercel.app/">following address</a></b>.</li>
 </ul>
