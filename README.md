@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="right">
+  <h1>mirai! 🏴</h1>
+  <a href="http://eientei.space"><img src="https://i.imgur.com/J3618U4.png"></a>
+</div>
 
-<!--
-**nachtreiher/nachtreiher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>20yo French student in computer science (specialization in system administration/cybersecurity) @ <b><a href="https://www.univ-lille.fr/">University of Lille</a></b> (3rd year).</li>
+  <li>Interested in reverse engineering, cryptography, low-level programming, networking, cybersecurity, pentesting, etc.</li>
+  <li>Big fan of <b><a href="https://www.openbsd.org/">OpenBSD</a></b>, love that fish. 🐡</li>
+  <li>My personal website (blog, portfolio, etc.) is available @ <b><a href="http://eientei.space">eientei.space</a></b> (currently in deployment).</li>
+</ul>
