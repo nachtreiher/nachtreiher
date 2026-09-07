@@ -1,15 +1,13 @@
 <div align="right">
-  <h1>mirai&! 🍀</h1>
-  <a href="https://eientei.space"><img src="https://i.imgur.com/J3618U4.png"></a>
+  <h1>mirai???</h1>
+  <a href="https://hypostasis.faith"><img src="https://i.imgur.com/WhIa1TE.png"></a>
 </div>
 
 <hr>
 
 <ul>
-  <li>21yo French student in computer science (specialization in system administration/cybersecurity) @ <b><a href="https://www.univ-lille.fr/">University of Lille</a></b> (3rd year).</li>
-  <li>I'm working on <b><a href="http://caldera.earth">Caldera</a></b> (not active), a real-time, global, multi-hazard natural disaster (earthquakes, tornadoes, volcanic activity...) monitoring web application.</li>
+  <li>21yo with a diploma (bachelor) in computer science (specialization in system administration/cybersecurity) @ <b><a href="https://www.univ-lille.fr/">University of Lille</a></b>.</li>
   <li>Interested in reverse engineering, cryptography, low-level programming, networking, cybersecurity, pentesting, radio, etc.</li>
-  <li>Big fan of <b><a href="https://www.openbsd.org/">OpenBSD</a></b>, really love that fish 🐡. Also a big fan of <b><a href="https://nixos.org/">NixOS</a></b>, really love that... snowflake i guess ❄️.</li>
-  <li>My personal website (blog, portfolio, etc.) is available @ <b><a href="https://eientei.space/~mirai">eientei.space</a></b>. It's 100% self-hosted at home, so if it's down, it's probably my ISP (or me forgetting to turn on my VM).</li>
-  <li>You can contact me at this email address: <b><a href="mailto:mirai@eientei.space">mirai@eientei.space</a></b>.</li>
+  <li>My personal website is available @ <b><a href="https://hypostasis.faith">hypostasis.faith</a></b>.
+  <li>You can contact me at this email address: <b><a href="mailto:mirai@hypostasis.faith">mirai@hypostasis.faith</a></b> (currently not available, please contact <a href="mailto:mirai@eientei.space">here</a> instead).</li>
 </ul>
